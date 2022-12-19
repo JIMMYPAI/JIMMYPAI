@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jimmy Pai AKA Kaung Nyunt Paing
-- 👀 Data Science, Consulting, Ex-Deloitte, Ex-Total
+- 👀 Data Science, Consulting
 - 🌱 Python, SQL, R.
 - 📫 How to reach me https://www.linkedin.com/in/kaung-nyunt-paing-867793146/
 
