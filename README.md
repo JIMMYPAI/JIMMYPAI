@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JIMMYPAI
-- 👀 I’m interested in Data Science and Business Analytics.
-- 🌱 I’m currently learning Python, SQL.
-- 💞️ I’m looking to collaborate on data science projects.
+- 👋 Hi, I’m Jimmy Pai AKA Kaung Nyunt Paing
+- 👀 Data Science, Consulting, Ex-Deloitte, Ex-Total
+- 🌱 Python, SQL, R.
 - 📫 How to reach me https://www.linkedin.com/in/kaung-nyunt-paing-867793146/
 
 <!---
