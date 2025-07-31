@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jimmy Pai AKA Kaung Nyunt Paing
-- 👀 Data Science, Consulting
-- 🌱 Python, SQL, R.
+- 👀 Building the Future with Agentic AI & Model Context Protocol. Data Science, Automation, ML/DL, AI.
+- 🌱 Uses Python primarily.
 - 📫 How to reach me https://www.linkedin.com/in/kaung-nyunt-paing-867793146/
 
 <!---
